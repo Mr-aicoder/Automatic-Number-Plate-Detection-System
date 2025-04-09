@@ -73,7 +73,7 @@ Script for interpolating missing bounding box data, ensuring continuous tracking
 Clone the Repository:
 
 
-https://github.com/Mr-aicoder/Automatic-Number-Plate-Detection-System.git
+    https://github.com/Mr-aicoder/Automatic-Number-Plate-Detection-System.git
 
 
 ## Results
