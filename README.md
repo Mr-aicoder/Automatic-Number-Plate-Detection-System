@@ -55,6 +55,10 @@ Data Interpolation: Interpolate missing data to ensure smooth tracking results.
 
 Visualization: Annotate and generate video output with all detected and tracked vehicles and number plates.
 
+
+
+<img width="632" height="813" alt="Automatic Number Plate Detection System Diagram" src="https://github.com/user-attachments/assets/f4f22e75-7eff-47e1-8f16-5581e422b109" />
+
 ## Files and Directories
 
 vehicle_plate_detection.py:
